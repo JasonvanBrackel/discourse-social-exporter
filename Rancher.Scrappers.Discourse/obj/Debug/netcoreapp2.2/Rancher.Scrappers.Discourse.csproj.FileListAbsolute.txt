@@ -1,0 +1,11 @@
+J:\src\rancher-forums-scrapper\Rancher.Scrappers.Discourse\bin\Debug\netcoreapp2.2\Rancher.Scrappers.Discourse.deps.json
+J:\src\rancher-forums-scrapper\Rancher.Scrappers.Discourse\bin\Debug\netcoreapp2.2\Rancher.Scrappers.Discourse.runtimeconfig.json
+J:\src\rancher-forums-scrapper\Rancher.Scrappers.Discourse\bin\Debug\netcoreapp2.2\Rancher.Scrappers.Discourse.runtimeconfig.dev.json
+J:\src\rancher-forums-scrapper\Rancher.Scrappers.Discourse\bin\Debug\netcoreapp2.2\Rancher.Scrappers.Discourse.dll
+J:\src\rancher-forums-scrapper\Rancher.Scrappers.Discourse\bin\Debug\netcoreapp2.2\Rancher.Scrappers.Discourse.pdb
+J:\src\rancher-forums-scrapper\Rancher.Scrappers.Discourse\obj\Debug\netcoreapp2.2\Rancher.Scrappers.Discourse.csprojAssemblyReference.cache
+J:\src\rancher-forums-scrapper\Rancher.Scrappers.Discourse\obj\Debug\netcoreapp2.2\Rancher.Scrappers.Discourse.csproj.CoreCompileInputs.cache
+J:\src\rancher-forums-scrapper\Rancher.Scrappers.Discourse\obj\Debug\netcoreapp2.2\Rancher.Scrappers.Discourse.AssemblyInfoInputs.cache
+J:\src\rancher-forums-scrapper\Rancher.Scrappers.Discourse\obj\Debug\netcoreapp2.2\Rancher.Scrappers.Discourse.AssemblyInfo.cs
+J:\src\rancher-forums-scrapper\Rancher.Scrappers.Discourse\obj\Debug\netcoreapp2.2\Rancher.Scrappers.Discourse.dll
+J:\src\rancher-forums-scrapper\Rancher.Scrappers.Discourse\obj\Debug\netcoreapp2.2\Rancher.Scrappers.Discourse.pdb

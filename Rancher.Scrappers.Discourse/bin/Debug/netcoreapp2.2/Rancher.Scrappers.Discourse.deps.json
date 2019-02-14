@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "e8d17e0327b4da56905abd2181469ba136496480"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Rancher.Scrappers.Discourse/1.0.0": {
+        "dependencies": {
+          "NLog": "4.5.11",
+          "Newtonsoft.Json": "12.0.1",
+          "prometheus-net": "3.0.3"
+        },
+        "runtime": {
+          "Rancher.Scrappers.Discourse.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.1.22727"
+          }
+        }
+      },
+      "NLog/4.5.11": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.5.11.8645"
+          }
+        }
+      },
+      "prometheus-net/3.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Prometheus.NetStandard.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rancher.Scrappers.Discourse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pBR3wCgYWZGiaZDYP+HHYnalVnPJlpP1q55qvVb+adrDHmFMDc1NAKio61xTwftK3Pw5h7TZJPJEEVMd6ty8rg==",
+      "path": "newtonsoft.json/12.0.1",
+      "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
+    },
+    "NLog/4.5.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Yni/XrDfbEhaCSXJsDkmW/n5AunhOxZ7OKKb+0U1I1/d8ZaKt3Jjzf20g/xPiKljmYuZKYqI5iI34g138kK8UQ==",
+      "path": "nlog/4.5.11",
+      "hashPath": "nlog.4.5.11.nupkg.sha512"
+    },
+    "prometheus-net/3.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t2dYmbmY6U6hUUhghWdrlYKCudEXBBTqkV7Up2YnMuJ0YRvfs0YrR8DCJHPxUUUdQtBXHm0N1GFsWlV3RrFQSg==",
+      "path": "prometheus-net/3.0.3",
+      "hashPath": "prometheus-net.3.0.3.nupkg.sha512"
+    }
+  }
+}
